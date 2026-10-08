@@ -4,9 +4,9 @@
 
 ## Infographies
 
-![Consommation électrique des usages numériques](assets/digital-energy-consumption.png)
+![Consommation électrique des usages numériques](assets/Environnement - IA perspective Conso eau.png)
 
-![Consommation d'eau des usages numériques](assets/digital-water-consumption.png)
+![Consommation d'eau des usages numériques](assets/Environnement - IA Perspective Conso Electricite.png)
 
 ## À retenir
 
