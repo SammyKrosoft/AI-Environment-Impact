@@ -351,18 +351,6 @@ La question environnementale de l’IA est donc principalement une question :
 
 ---
 
-# 🖼️ Infographies
-
-Les infographies associées à cette analyse peuvent être ajoutées dans un dossier `assets`.
-
-```markdown
-![Consommation électrique des usages numériques](assets/digital-energy-consumption.png)
-
-![Consommation d'eau des usages numériques](assets/digital-water-consumption.png)
-```
-
----
-
 # 📚 Sources principales
 
 Les chiffres et ordres de grandeur présentés ici s’appuient notamment sur :
