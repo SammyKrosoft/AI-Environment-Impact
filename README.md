@@ -201,6 +201,7 @@ Les valeurs suivantes sont des **ordres de grandeur**, et non des constantes uni
 | 📺 1 h de streaming vidéo | ~77 Wh |
 | 🎮 1 h de jeu sur PC gaming | ~100–300 Wh ou davantage |
 
+---
 
 | Usage | Consommation électrique indicative |
 |---|---:|
