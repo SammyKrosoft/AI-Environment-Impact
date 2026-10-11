@@ -355,28 +355,28 @@ La question environnementale de l’IA est donc principalement une question :
 
 Les chiffres et ordres de grandeur présentés ici s’appuient notamment sur :
 
-1. **Google — Measuring the environmental impact of AI inference**  
+1. **[Google — Measuring the environmental impact of AI inference](https://cloud.google.com/blog/products/infrastructure/measuring-the-environmental-impact-of-ai-inference)**  
    Mesures de l’énergie, de l’eau et du CO₂ associés à l’inférence Gemini
 
-2. **Microsoft Research — Energy use of AI inference, efficiency pathways, and test-time scaling**  
+2. **[Microsoft Research — Energy use of AI inference, efficiency pathways, and test-time scaling](https://www.microsoft.com/en-us/research/publication/energy-use-of-ai-inference-efficiency-pathways-and-test-time-scaling/)**  
    Analyse de la consommation des LLM et du coût supplémentaire du raisonnement
 
-3. **International Energy Agency — Energy and AI**  
+3. **[International Energy Agency — Energy and AI](https://www.iea.org/reports/energy-and-ai)**  
    Prévisions concernant la croissance de la consommation électrique des datacenters
 
-4. **International Energy Agency — The carbon footprint of streaming video**  
+4. **[International Energy Agency — The carbon footprint of streaming video](https://www.iea.org/commentaries/the-carbon-footprint-of-streaming-video-fact-checking-the-headlines)**  
    Ordres de grandeur pour le streaming vidéo
 
-5. **Lawrence Berkeley National Laboratory — U.S. Data Center Energy Usage Report**  
+5. **[Lawrence Berkeley National Laboratory — U.S. Data Center Energy Usage Report](https://eta-publications.lbl.gov/sites/default/files/2024-12/lbnl-2024-united-states-data-center-energy-usage-report_1.pdf)**  
    Consommation énergétique et évolution des datacenters
 
-6. **npj Clean Water — Data centre water consumption**  
+6. **[npj Clean Water — Data centre water consumption](https://www.nature.com/articles/s41545-021-00101-w)**  
    Analyse de la consommation directe et indirecte d’eau des datacenters
 
-7. **Li et al. — Making AI Less “Thirsty”**  
+7. **[Li et al. — Making AI Less “Thirsty”](https://arxiv.org/abs/2304.03271)**  
    Étude sur l’empreinte hydrique des modèles d’intelligence artificielle
 
-8. **Nature Communications — The environmental sustainability of digital content consumption**  
+8. **[Nature Communications — The environmental sustainability of digital content consumption](https://www.nature.com/articles/s41467-024-47621-w)**  
    Analyse du cycle de vie des principaux usages numériques
 
 ---
