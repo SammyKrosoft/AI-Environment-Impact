@@ -201,6 +201,41 @@ Les valeurs suivantes sont des **ordres de grandeur**, et non des constantes uni
 | 📺 1 h de streaming vidéo | ~77 Wh |
 | 🎮 1 h de jeu sur PC gaming | ~100–300 Wh ou davantage |
 
+
+| Usage | Consommation électrique indicative |
+|---|---:|
+| 💬 Message texte | très faible |
+| 📧 Email texte | très faible |
+| 🔎 Recherche web classique | quelques dixièmes de Wh |
+| 🤖 Prompt IA simple | ~0,2–0,6 Wh |
+| 🎨 Génération d'une image IA (ex. "Starter Pack") | ~0,6–3 Wh* |
+| 🧠 Requête IA avec raisonnement important | ~4 Wh ou davantage |
+| 🎵 1 h de streaming audio | quelques Wh à quelques dizaines de Wh |
+| 📹 1 h de visioconférence | ~20–50 Wh |
+| 📱 1 h de vidéo sur smartphone | ~30–40 Wh |
+| 📺 1 h de streaming vidéo | ~77 Wh |
+| 🎬 Génération d'une vidéo IA courte (~6 s) | ~100–120 Wh** |
+| 🎮 1 h de jeu sur PC gaming | ~100–300 Wh ou davantage |
+
+
+\* La génération d’images varie fortement selon le modèle, la résolution et le nombre d’étapes. Les études publiées vont d’environ 0,2 Wh à plusieurs Wh par image, avec certains modèles dépassant 10 Wh.
+
+\** La génération vidéo IA est encore beaucoup plus variable et peut consommer un à deux ordres de grandeur de plus que la génération d’images.
+
+
+| Usage | Consommation d’eau indicative |
+|---|---:|
+| 🤖 Prompt IA texte simple | ~0,2–0,3 mL |
+| 🎨 Génération d'une image IA | ~0,6–3 mL* |
+| 🧠 Requête IA avec raisonnement important | ~4–5 mL ou davantage |
+| 🎬 Génération d'une vidéo IA courte (~6 s) | ~20–120 mL** |
+
+
+\* Estimation indirecte à partir de la consommation électrique des modèles d’image et d’un ordre de grandeur d’environ 1 mL d’eau par Wh. Ce n’est pas une mesure universelle.
+
+\** La génération vidéo varie énormément selon le modèle, la durée, la résolution et le datacenter. Certains modèles légers consomment très peu, tandis que les modèles lourds peuvent dépasser 100 Wh par clip.
+
+
 ---
 
 # 📺 5. Une comparaison intéressante : IA vs Netflix
