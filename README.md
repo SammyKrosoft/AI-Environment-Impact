@@ -224,18 +224,30 @@ Les valeurs suivantes sont des **ordres de grandeur**, et non des constantes uni
 \** La génération vidéo IA est encore beaucoup plus variable et peut consommer un à deux ordres de grandeur de plus que la génération d’images.
 
 
+## 💧 Comparaison de la consommation d’eau
+
+Les valeurs suivantes sont des **ordres de grandeur indicatifs**.  
+À l’exception de certains workloads IA mesurés directement, la plupart sont estimés à partir de leur consommation électrique et d’un ordre de grandeur d’environ **1 mL d’eau par Wh**.
+
 | Usage | Consommation d’eau indicative |
 |---|---:|
-| 🤖 Prompt IA texte simple | ~0,2–0,3 mL |
-| 🎨 Génération d'une image IA | ~0,6–3 mL* |
+| 💬 Message texte | très faible, ≪ 0,1 mL |
+| 📧 Email texte | très faible |
+| 🔎 Recherche web classique | ~0,2–0,4 mL |
+| 🤖 Prompt IA texte simple | ~0,26 mL |
+| 🎨 Génération d’une image IA | ~0,6–3 mL* |
 | 🧠 Requête IA avec raisonnement important | ~4–5 mL ou davantage |
-| 🎬 Génération d'une vidéo IA courte (~6 s) | ~20–120 mL** |
+| 🎵 1 h de streaming audio | ~5–20 mL |
+| 📹 1 h de visioconférence | ~20–50 mL |
+| 📱 1 h de vidéo sur smartphone | ~30–40 mL |
+| 📺 1 h de streaming vidéo | ~70–80 mL |
+| 🎬 Génération d’une vidéo IA courte | ~20–110 mL** |
+| 🎮 1 h de jeu sur PC gaming | ~100–300 mL ou davantage |
 
 
-\* Estimation indirecte à partir de la consommation électrique des modèles d’image et d’un ordre de grandeur d’environ 1 mL d’eau par Wh. Ce n’est pas une mesure universelle.
+\* La génération d’images varie fortement selon le modèle, la résolution et le nombre d’étapes. Cette valeur est une estimation dérivée de la consommation électrique mesurée des modèles d’image.
 
-\** La génération vidéo varie énormément selon le modèle, la durée, la résolution et le datacenter. Certains modèles légers consomment très peu, tandis que les modèles lourds peuvent dépasser 100 Wh par clip.
-
+\** La génération vidéo IA varie énormément selon le modèle. Des benchmarks mesurent environ 0,14 Wh pour certains modèles très légers, jusqu’à ~109 Wh pour des modèles vidéo beaucoup plus lourds. La consommation d’eau indiquée ici est donc un ordre de grandeur dérivé, et non une valeur universelle.
 
 ---
 
