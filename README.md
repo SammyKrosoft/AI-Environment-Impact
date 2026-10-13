@@ -188,19 +188,6 @@ Ces émissions sont souvent classées dans les émissions **Scope 3** des entrep
 
 Les valeurs suivantes sont des **ordres de grandeur**, et non des constantes universelles.
 
-| Usage | Consommation électrique indicative |
-|---|---:|
-| 💬 Message texte | très faible |
-| 📧 Email texte | très faible |
-| 🔎 Recherche web classique | quelques dixièmes de Wh |
-| 🤖 Prompt IA simple | ~0,2–0,6 Wh |
-| 🧠 Requête IA avec raisonnement important | ~4 Wh ou davantage |
-| 🎵 1 h de streaming audio | quelques Wh à quelques dizaines de Wh |
-| 📹 1 h de visioconférence | ~20–50 Wh |
-| 📱 1 h de vidéo sur smartphone | ~30–40 Wh |
-| 📺 1 h de streaming vidéo | ~77 Wh |
-| 🎮 1 h de jeu sur PC gaming | ~100–300 Wh ou davantage |
-
 ---
 
 | Usage | Consommation électrique indicative |
